@@ -32,12 +32,12 @@
                 <li class="has-children">
                     <a href="#0" title="">Blog</a>
                     <ul class="sub-menu">
-                        <li><a href="single-video.html">Video Post</a></li>
-                        <li><a href="single-audio.html">Audio Post</a></li>
+                        <li><a href="single-video.php">Video Post</a></li>
+                        <li><a href="single-audio.php">Audio Post</a></li>
                         <li><a href="single-blog.php">Standard Post</a></li>
                     </ul>
                 </li>
-                <li><a href="styles.html" title="">Styles</a></li>
+                <li><a href="styles.php" title="">Styles</a></li>
                 <li><a href="about.php" title="">About</a></li>
                 <li><a href="contact.php" title="">Contact</a></li>
             </ul> <!-- end s-header__nav -->
