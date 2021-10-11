@@ -5,7 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>About - Calvin</title>
+    <title>Contact - Calvin</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -47,7 +47,7 @@
     <header class="s-header s-header--opaque">
 
         <div class="s-header__logo">
-            <a class="logo" href="index.html">
+            <a class="logo" href="index.php">
                 <img src="images/logo.svg" alt="Homepage">
             </a>
         </div>
@@ -59,18 +59,18 @@
                 <h3 class="s-header__nav-heading h6">Navigate to</h3>
 
                 <ul class="s-header__nav">
-                    <li><a href="index.html" title="">Home</a></li>
+                    <li><a href="index.php" title="">Home</a></li>
                     <li class="has-children">
                         <a href="#0" title="">Categories</a>
                         <ul class="sub-menu">
-                            <li><a href="category.html">Design</a></li>
-                            <li><a href="category.html">Lifestyle</a></li>
-                            <li><a href="category.html">Photography</a></li>
-                            <li><a href="category.html">Vacation</a></li>
-                            <li><a href="category.html">Work</a></li>
-                            <li><a href="category.html">Health</a></li>
-                            <li><a href="category.html">Family</a></li>
-                            <li><a href="category.html">Relationship</a></li>
+                            <li><a href="category.php">Design</a></li>
+                            <li><a href="category.php">Lifestyle</a></li>
+                            <li><a href="category.php">Photography</a></li>
+                            <li><a href="category.php">Vacation</a></li>
+                            <li><a href="category.php">Work</a></li>
+                            <li><a href="category.php">Health</a></li>
+                            <li><a href="category.php">Family</a></li>
+                            <li><a href="category.php">Relationship</a></li>
                         </ul>
                     </li>
                     <li class="has-children">
@@ -78,12 +78,12 @@
                         <ul class="sub-menu">
                             <li><a href="single-video.html">Video Post</a></li>
                             <li><a href="single-audio.html">Audio Post</a></li>
-                            <li><a href="single-standard.html">Standard Post</a></li>
+                            <li><a href="single-blog.php">Standard Post</a></li>
                         </ul>
                     </li>
                     <li><a href="styles.html" title="">Styles</a></li>
-                    <li class="current"><a href="about.html" title="">About</a></li>
-                    <li><a href="contact.html" title="">Contact</a></li>
+                    <li><a href="about.php" title="">About</a></li>
+                    <li class="current"><a href="contact.php" title="">Contact</a></li>
                 </ul> <!-- end s-header__nav -->
 
                 <a href="#0" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>
@@ -131,15 +131,14 @@
                 <article class="s-content__entry">
 
                     <div class="s-content__media">
-                        <img src="images/thumbs/about/about-1050.jpg" 
-                                srcset="images/thumbs/about/about-2100.jpg 2100w, 
-                                        images/thumbs/about/about-1050.jpg 1050w, 
-                                        images/thumbs/about/about-525.jpg 525w" sizes="(max-width: 2100px) 100vw, 2100px" alt="">
-
+                        <img src="images/thumbs/contact/contact-1050.jpg" 
+                                srcset="images/thumbs/contact/contact-2100.jpg 2100w, 
+                                        images/thumbs/contact/contact-1050.jpg 1050w, 
+                                        images/thumbs/contact/contact-525.jpg 525w" sizes="(max-width: 2100px) 100vw, 2100px" alt="">
                     </div> <!-- end s-content__media -->
 
                     <div class="s-content__entry-header">
-                        <h1 class="s-content__title">Learn More About Story.</h1>
+                        <h1 class="s-content__title">Get In Touch With Us.</h1>
                     </div> <!-- end s-content__entry-header -->
 
                     <div class="s-content__primary">
@@ -147,66 +146,67 @@
                         <div class="s-content__page-content">
 
                             <p class="lead">
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit nisi est eu 
-                            exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam dolor dolor irure velit 
-                            commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non 
-                            laborum adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut laboris in sit minim 
-                            cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut 
-                            enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-                            
-                            <p>
-                            Lorem ipsum Nisi cillum reprehenderit minim sunt dolore dolor eiusmod eu aliquip ad ut sint dolore laborum 
-                            voluptate ullamco dolore aliquip enim. Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit 
-                            nisi est eu exercitation incididunt adipisicing
+                            Lorem ipsum Deserunt est dolore Ut Excepteur nulla occaecat magna occaecat Excepteur nisi esse veniam 
+                            dolor consectetur minim qui nisi esse deserunt commodo ea enim ullamco non voluptate consectetur minim 
+                            aliquip Ut incididunt amet ut cupidatat.
                             </p> 
 
                             <p>
-                            Lorem ipsum Cillum sit sunt dolore non aute enim pariatur deserunt magna reprehenderit veniam officia ullamco 
-                            eiusmod laborum commodo veniam elit proident enim sit cillum ex aliquip dolore labore sint ut deserunt officia 
-                            veniam consectetur in in quis eu consectetur non sint Duis mollit Ut magna irure.
+                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit 
+                            nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam 
+                            dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore cillum 
+                            sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident ullamco 
+                            ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat 
+                            occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
                             </p>
 
                             <br>
 
                             <div class="row block-large-1-2 block-tab-full s-content__blocks">
                                 <div class="column">
-                                    <h4>Who.</h4>
+                                    <h4>Where to Find Us</h4>
                                     <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex 
-                                    occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi 
-                                    consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
+                                    1600 Amphitheatre Parkway<br>
+                                    Mountain View, CA<br>
+                                    94043 US
                                     </p>
                                 </div>
 
                                 <div class="column">
-                                    <h4>When.</h4>
+                                    <h4>Contact Info</h4>
                                     <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex 
-                                    occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi 
-                                    consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
-                                    </p>
+                                    someone@yourdomain.com<br>
+                                    info@yourdomain.com <br>
+                                    Phone: (+63) 555 1212
+                                    </p> 
                                 </div>
+                            </div> <!-- end s-content__blocks -->
 
-                                <div class="column">
-                                    <h4>What.</h4>
-                                    <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex 
-                                    occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi 
-                                    consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
-                                    </p>
-                                </div>
+                            <form name="cForm" id="cForm" class="s-content__form" method="post" action="">
+                                <fieldset>
 
-                                <div class="column">
-                                    <h4>How.</h4>
-                                    <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui 
-                                    sit ex occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip 
-                                    magna nisi consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
-                                    </p>
-                                </div>
+                                    <div class="form-field">
+                                        <input name="cName" type="text" id="cName" class="h-full-width h-remove-bottom" placeholder="Your Name" value="">
+                                    </div>
 
-                            </div>
+                                    <div class="form-field">
+                                        <input name="cEmail" type="text" id="cEmail" class="h-full-width h-remove-bottom" placeholder="Your Email" value="">
+                                    </div>
+
+                                    <div class="form-field">
+                                        <input name="cWebsite" type="text" id="cWebsite" class="h-full-width h-remove-bottom" placeholder="Website"  value="">
+                                    </div>
+
+                                    <div class="message form-field">
+                                        <textarea name="cMessage" id="cMessage" class="h-full-width" placeholder="Your Message" ></textarea>
+                                    </div>
+
+                                    <br>
+                                    <button type="submit" class="submit btn btn--primary h-full-width">Submit</button>
+
+                                </fieldset>
+                            </form> <!-- end form -->
+
                         </div> <!-- end s-entry__page-content -->
 
                     </div> <!-- end s-content__primary -->

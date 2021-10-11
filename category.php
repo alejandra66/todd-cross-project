@@ -47,7 +47,7 @@
     <header class="s-header s-header--opaque">
 
         <div class="s-header__logo">
-            <a class="logo" href="index.html">
+            <a class="logo" href="index.php">
                 <img src="images/logo.svg" alt="Homepage">
             </a>
         </div>
@@ -59,18 +59,18 @@
                 <h3 class="s-header__nav-heading h6">Navigate to</h3>
 
                 <ul class="s-header__nav">
-                    <li><a href="index.html" title="">Home</a></li>
+                    <li><a href="index.php" title="">Home</a></li>
                     <li class="has-children current">
                         <a href="#0" title="">Categories</a>
                         <ul class="sub-menu">
-                            <li><a href="category.html">Design</a></li>
-                            <li><a href="category.html">Lifestyle</a></li>
-                            <li><a href="category.html">Photography</a></li>
-                            <li><a href="category.html">Vacation</a></li>
-                            <li><a href="category.html">Work</a></li>
-                            <li><a href="category.html">Health</a></li>
-                            <li><a href="category.html">Family</a></li>
-                            <li><a href="category.html">Relationship</a></li>
+                            <li><a href="category.php">Design</a></li>
+                            <li><a href="category.php">Lifestyle</a></li>
+                            <li><a href="category.php">Photography</a></li>
+                            <li><a href="category.php">Vacation</a></li>
+                            <li><a href="category.php">Work</a></li>
+                            <li><a href="category.php">Health</a></li>
+                            <li><a href="category.php">Family</a></li>
+                            <li><a href="category.php">Relationship</a></li>
                         </ul>
                     </li>
                     <li class="has-children">
@@ -78,12 +78,12 @@
                         <ul class="sub-menu">
                             <li><a href="single-video.html">Video Post</a></li>
                             <li><a href="single-audio.html">Audio Post</a></li>
-                            <li><a href="single-standard.html">Standard Post</a></li>
+                            <li><a href="single-blog.php">Standard Post</a></li>
                         </ul>
                     </li>
                     <li><a href="styles.html" title="">Styles</a></li>
-                    <li><a href="about.html" title="">About</a></li>
-                    <li><a href="contact.html" title="">Contact</a></li>
+                    <li><a href="about.php" title="">About</a></li>
+                    <li><a href="contact.php" title="">Contact</a></li>
                 </ul> <!-- end s-header__nav -->
 
                 <a href="#0" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>
@@ -158,7 +158,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/macbook-600.jpg" 
                                      srcset="images/thumbs/masonry/macbook-600.jpg 1x, images/thumbs/masonry/macbook-1200.jpg 2x" alt="">
                             </a>
@@ -193,7 +193,7 @@
                     <article class="brick entry" data-aos="fade-up">
         
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/woodcraft-600.jpg" 
                                      srcset="images/thumbs/masonry/woodcraft-600.jpg 1x, images/thumbs/masonry/woodcraft-1200.jpg 2x" alt="">
                             </a>
@@ -201,7 +201,7 @@
         
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">Just a Normal Simple Blog Post.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">Just a Normal Simple Blog Post.</a></h1>
         
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -228,7 +228,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/tulips-600.jpg" 
                                      srcset="images/thumbs/masonry/tulips-600.jpg 1x, images/thumbs/masonry/tulips-1200.jpg 2x" alt="">
                             </a>
@@ -236,7 +236,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">10 Interesting Facts About Caffeine.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">10 Interesting Facts About Caffeine.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -262,7 +262,7 @@
                     <article class="brick entry" data-aos="fade-up">
         
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/grayscale-600.jpg" 
                                      srcset="images/thumbs/masonry/grayscale-600.jpg 1x, images/thumbs/masonry/grayscale-1200.jpg 2x" alt="">
                             </a>
@@ -270,7 +270,7 @@
         
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">5  Grayscale Coloring Techniques.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">5  Grayscale Coloring Techniques.</a></h1>
 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -296,7 +296,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/walk-600.jpg" 
                                      srcset="images/thumbs/masonry/walk-600.jpg 1x, images/thumbs/masonry/walk-1200.jpg 2x" alt="">
                             </a>
@@ -304,7 +304,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">Using Repetition and Patterns in Photography.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">Using Repetition and Patterns in Photography.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -332,7 +332,7 @@
                     <article class="brick entry" data-aos="fade-up">
             
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/jump-600.jpg" 
                                      srcset="images/thumbs/masonry/jump-600.jpg 1x, images/thumbs/masonry/jump-1200.jpg 2x" alt="">
                             </a>
@@ -340,7 +340,7 @@
             
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">Create Meaningful Family Moments.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">Create Meaningful Family Moments.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -367,7 +367,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/real-600.jpg" 
                                      srcset="images/thumbs/masonry/real-600.jpg 1x, images/thumbs/masonry/real-1200.jpg 2x" alt="">
                             </a>
@@ -375,7 +375,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">How We Live Is What Makes Us Real.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">How We Live Is What Makes Us Real.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -402,7 +402,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/lamp-600.jpg" 
                                      srcset="images/thumbs/masonry/lamp-600.jpg 1x, images/thumbs/masonry/lamp-1200.jpg 2x" alt="">
                             </a>
@@ -410,7 +410,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">Symmetry In Modern Design.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">Symmetry In Modern Design.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -437,7 +437,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/clock-600.jpg" 
                                      srcset="images/thumbs/masonry/clock-600.jpg 1x, images/thumbs/masonry/clock-1200.jpg 2x" alt="">
                             </a>
@@ -445,7 +445,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">10 Tips for Managing Time Effectively.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">10 Tips for Managing Time Effectively.</a></h1>
     
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -472,7 +472,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/beetle-600.jpg" 
                                      srcset="images/thumbs/masonry/beetle-600.jpg 1x, images/thumbs/masonry/beetle-1200.jpg 2x" alt="">
                             </a>
@@ -480,7 +480,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">Throwback To The Good Old Days.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">Throwback To The Good Old Days.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -506,7 +506,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/phone-and-keyboard-600.jpg" 
                                      srcset="images/thumbs/masonry/phone-and-keyboard-600.jpg 1x, images/thumbs/masonry/phone-and-keyboard-1200.jpg 2x" alt="">
                             </a>
@@ -514,7 +514,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">3 Reasons to Keep Your Workplace Tidy.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">3 Reasons to Keep Your Workplace Tidy.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
@@ -540,7 +540,7 @@
                     <article class="brick entry" data-aos="fade-up">
     
                         <div class="entry__thumb">
-                            <a href="single-standard.html" class="thumb-link">
+                            <a href="single-blog.php" class="thumb-link">
                                 <img src="images/thumbs/masonry/seashore-600.jpg" 
                                      srcset="images/thumbs/masonry/seashore-600.jpg 1x, images/thumbs/masonry/seashore-1200.jpg 2x" alt="">
                             </a>
@@ -548,7 +548,7 @@
     
                         <div class="entry__text">
                             <div class="entry__header">
-                                <h1 class="entry__title"><a href="single-standard.html">What The Beach Does to Your Brain.</a></h1>
+                                <h1 class="entry__title"><a href="single-blog.php">What The Beach Does to Your Brain.</a></h1>
                                 
                                 <div class="entry__meta">
                                     <span class="byline"">By:
