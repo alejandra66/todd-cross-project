@@ -41,7 +41,7 @@
     	<div id="loader"></div>
     </div>
 
-    <?php include "header.php"; ?>
+    <?php include "header.php"; include "header-opaque.php"; ?>
 
     <!-- content
     ================================================== -->
