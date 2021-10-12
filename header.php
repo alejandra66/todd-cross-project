@@ -4,7 +4,7 @@
 
     <div class="s-header__logo">
         <a class="logo" href="index.php">
-            <img src="images/logo.svg" alt="Homepage">
+            <h2>Lock.</h2>
         </a>
     </div>
 
