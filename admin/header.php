@@ -6,7 +6,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.php">Dream</a>
+        <a class="navbar-brand" href="index.php">Lock.</a>
     </div>
 </nav>
 <!--/. NAV TOP  -->
